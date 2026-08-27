@@ -125,4 +125,10 @@ li span {
 .botao-wpp:focus {
   background-color: darken(#e15d3c, 15%);
 }
+@media (max-width: 480px) {
+  body {
+      background-image: url('https://nashwinsingh.github.io/GTA-6-Count-Down/Jason_and_Lucia_Beach_portrait.jpg');
 
+  }
+ 
+}
